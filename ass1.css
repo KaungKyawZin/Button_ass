@@ -1,0 +1,52 @@
+button{
+    border: none;
+    border-radius: 10px 10px;
+    color: white;
+    text-align: center;
+    padding: 15px 30px;
+    margin: 10px;
+}
+#btn1{
+    background-color: #007bff;
+}
+#btn2{
+    background-color: #6c757d;
+}
+#btn3{
+    background-color: #28a745;
+}
+#btn4{
+    background-color: #17a2b8;
+}
+#btn5{
+    background-color: #ffc107;
+}
+#btn6{
+    background-color: #dc3545;
+}
+#btn7{
+    border-radius: 50px;
+    background-color: #007bff;
+}
+#btn8{
+    width:40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #007bff;
+    padding: 1px;
+}
+#btn9{
+    border:1px dashed #007bff;
+    border-radius: 10px 10px;
+    color: #007bff;
+}
+#btn10{
+    border:1px solid #007bff;
+    border-radius: 10px 10px;
+    color: #007bff;
+}
+#btn11{
+    box-shadow: 10px 10px #007bff,-10px -10px #007bff;
+    color: black;
+    border: 2px solid #007bff;
+}
